@@ -1,9 +1,17 @@
 
 #Convert fastq reads to fasta format
 mamba activate bbmap
-bash reformat.sh in=file.fasta out=file.fasta
+bash reformat.sh in=isolate.fastq out=isolate_reads.fasta
 
 #make blast db of reads
-#blast reads for ToxB-ORF 
+bash makedb.sh isolate_reads.fasta
+
+#blast reads for ToxB-ORF (file format 6)
+bash _blast_db.nt ToxB-ORF.nt isolate_reads.fasta
+
 #extract ToxB containing reads
+awk '{print $2}' ToxB-ORF.nt.isolate_reads.fasta > hitlist.txt
+python3 extract-gene-list.py ToxB-ORF.nt.isolate_reads.fasta
+mv all.fa isolate_reads-w-ToxB.fasta
+
 #align with assembly to confirm overlap
