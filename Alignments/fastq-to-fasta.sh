@@ -10,8 +10,9 @@ bash makedb.sh isolate_reads.fasta
 bash _blast_db.nt ToxB-ORF.nt isolate_reads.fasta
 
 #extract ToxB containing reads
-awk '{print $2}' ToxB-ORF.nt.isolate_reads.fasta > hitlist.txt
-python3 extract-gene-list.py ToxB-ORF.nt.isolate_reads.fasta
+awk '{print $2}' ToxB-ORF.nt.isolate_reads.fasta.blastout > hitlist.txt
+mamba deactiavte
+python3 extract-gene-list.py isolate_reads.fasta
 mv all.fa isolate_reads-w-ToxB.fasta
 
 #align with assembly to confirm overlap
