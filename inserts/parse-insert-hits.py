@@ -21,7 +21,7 @@ inputFile['ratio'] = (inputFile['length']/q_length)
 
 #counts the rows (i.e. hits) with greater than 90% of query
 rows = pd.DataFrame(inputFile.loc[inputFile['ratio'] > 0.9])
-print(len(rows))
+print('Total:', len(rows))
 
 #print lines with ratio scores greater than 90% of the query length
 with open("output.txt", "w") as f:
