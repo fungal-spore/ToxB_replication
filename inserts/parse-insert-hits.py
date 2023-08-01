@@ -5,7 +5,6 @@ Dumps to output.txt
 '''
 
 import pandas as pd
-import re
 import sys
 
 #import blastfile
