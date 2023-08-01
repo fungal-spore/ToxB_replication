@@ -9,7 +9,7 @@ import re
 import sys
 
 #import blastfile
-inputFile = pd.read_csv(sys.argv[1], sep="\t")
+inputFile = pd.read_csv(sys.argv[1], sep="\t", header=None)
 
 #set column names
 inputFile.columns = ['qseqid','sseqid','pident','length','mismatch','gapopen','qstart','qend','sstart','send','evalue','bitscore']
