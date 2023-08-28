@@ -1,20 +1,37 @@
-#usage: bash reads-to-assembly.sh genome1 reads2 isolate-name
+#Usage: bash reads-2-contig.sh reference_sequence reference_name fastq_R1 fastq_                                                                  R2 isolate_name
+#Programs: bowtie2 and samtools
 
-#build genome index
-bowtie2-build $1 $3
+# Script for aligning raw fastq reads to a reference genome
+# Output will be a sorted BAM file
+# Sorted BAM and its BAI index can be imported to IGV for viewing
 
-#align reads to
-bowtie2 -p 8 -x $3 -U $2 -S $3_aligned-reads.sam
+#mamba activate bowtie2
 
-#convert alignment from SAM to BAM
-samtools view -S -b $3_aligned-reads.sam > $3_aligned-reads.bam
-rm $3_aligned-reads.sam
+#build an index for reference genome
+bowtie2-build $1 $2
 
-#sort BAM by position
-samtools sort $3_aligned-reads.bam -o $3_aligned-reads.sort.bam
-rm $3_aligned-reads.bam
+#align reads to reference
+# -p is number of cpus
+# -x is reference genome name used above
+# -U is a file which contains a list of unpaired fastq files (i.e. single long r                                                                  ead fastq)
+# -1 is a file which contains a list of read set 1 from paired data
+# -2 is a file which contains a list of read set 2 from paired data
+# -S output is SAM file
+# need to replace 'isolate' with actual isolate name
+bowtie2 -p 2 -x $2 -1 $3 -2 $4 -S $5_aligned-reads.$2.sam
+
+#mamba activate samtools
+
+#convert alignment file from SAM format to BAM
+# -S indicates input is a SAM file
+# -b indicates output is a BAM file
+samtools view -S -b $5_aligned-reads.$2.sam > $5_aligned-reads.$2.bam
+
+#sort BAM file by position
+samtools sort $5_aligned-reads.$2.bam -o $5_aligned-reads.$2.sort.bam
 
 #index the sorted BAM file
-samtools index $3_aligned-reads.sort.bam
+samtools index $5_aligned-reads.$2.sort.bam
 
-#import to IGV to see read coverage
+#cleanup intermediate files
+rm $5_aligned-reads.$2.sam $5_aligned-reads.$2.bam
