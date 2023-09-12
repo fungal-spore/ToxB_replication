@@ -1,3 +1,7 @@
+'''
+Input is output from parse-insert-hits.py
+Creates a bed file for use with bedtools to extract parsed sequences
+'''
 import pandas as pd
 
 df = pd.read_csv("output.tsv", sep="\t")
