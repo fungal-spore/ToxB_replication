@@ -1,5 +1,12 @@
-#usage: bash master.sh blastout insert-length genome
+'''
+Parses a blast output file (-outfmt 6) to have only hits with 90% ID over 90% of the query.
+Pulls the corresponding sequences out of the queried assembly and dumps to single fasta file.
+Also outputs a file which counts the number of filtered hits.
 
+Calls other files in this directory.
+
+Usage: bash master.sh blastout insert-length genome
+'''
 #parse blast output
 python parse-insert-hits.py $1 $2
 
