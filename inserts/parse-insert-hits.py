@@ -3,6 +3,7 @@ This script is for parsing blast outfmt 6 tables.
 Compares query length to hit length, then counts hits that match over 90% of the query length.
 Dumps to output.txt
 '''
+#usage: python parse-insert-hits.py *.blastout query-length
 
 import pandas as pd
 import sys
@@ -19,11 +20,15 @@ q_length = int(sys.argv[2])
 #create ratio column by dividing the hit length by the full query
 inputFile['ratio'] = (inputFile['length']/q_length)
 
-#counts the rows (i.e. hits) with greater than 90% of query
+#print the number of rows (i.e. hits) with greater than 90% of the query
 rows = pd.DataFrame(inputFile.loc[inputFile['ratio'] > 0.9])
-print('Total:', len(rows))
 
-#print lines with ratio scores greater than 90% of the query length
-with open("output.txt", "w") as f:
-        print(inputFile.loc[inputFile['ratio'] > 0.9], file=f)
+#print to file
+rows.to_csv('output.tsv', sep='\t', index=False)
+
+#print(rows)
+print(sys.argv[1], 'Total:', len(rows))
+
+with open("out.count", "w") as file:
+    print(sys.argv[1]+ "\t" + str(len(rows)), file=file)
 
