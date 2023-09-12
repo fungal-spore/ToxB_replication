@@ -1,284 +1,264 @@
-python parse-insert-hits.py 1060_insert.90-2.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.Alg3-24.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.Alg4x-1.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.AlgH1_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.D308.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.I-33-16_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.I-34-1_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.I73-1.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.K11_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.K6_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.K9_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.L1-2.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.SC22-2_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.SC29-1.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.SC29-8_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.SW21-5_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.T103-1.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.T126-1_hicanu.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.T128-1.contigs.fasta.blastout 1060
-python parse-insert-hits.py 1060_insert.Tptr3-1.contigs.fasta.blastout 1060
-python parse-insert-hits.py 12596_insert.90-2.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.Alg3-24.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.Alg4x-1.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.AlgH1_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.D308.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.I-33-16_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.I-34-1_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.I73-1.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.K11_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.K6_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.K9_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.L1-2.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.SC22-2_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.SC29-1.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.SC29-8_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.SW21-5_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.T103-1.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.T126-1_hicanu.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.T128-1.contigs.fasta.blastout 12596
-python parse-insert-hits.py 12596_insert.Tptr3-1.contigs.fasta.blastout 12596
-python parse-insert-hits.py 2110_insert.90-2.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.Alg3-24.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.Alg4x-1.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.AlgH1_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.D308.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.I-33-16_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.I-34-1_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.I73-1.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.K11_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.K6_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.K9_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.L1-2.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.SC22-2_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.SC29-1.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.SC29-8_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.SW21-5_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.T103-1.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.T126-1_hicanu.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.T128-1.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2110_insert.Tptr3-1.contigs.fasta.blastout 2110
-python parse-insert-hits.py 2603_insert.90-2.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.Alg3-24.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.Alg4x-1.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.AlgH1_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.D308.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.I-33-16_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.I-34-1_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.I73-1.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.K11_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.K6_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.K9_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.L1-2.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.SC22-2_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.SC29-1.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.SC29-8_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.SW21-5_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.T103-1.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.T126-1_hicanu.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.T128-1.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2603_insert.Tptr3-1.contigs.fasta.blastout 2603
-python parse-insert-hits.py 2805_insert.90-2.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.Alg3-24.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.Alg4x-1.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.AlgH1_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.D308.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.I-33-16_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.I-34-1_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.I73-1.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.K11_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.K6_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.K9_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.L1-2.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.SC22-2_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.SC29-1.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.SC29-8_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.SW21-5_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.T103-1.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.T126-1_hicanu.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.T128-1.contigs.fasta.blastout 2805
-python parse-insert-hits.py 2805_insert.Tptr3-1.contigs.fasta.blastout 2805
-python parse-insert-hits.py 5181_insert.90-2.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.Alg3-24.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.Alg4x-1.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.AlgH1_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.D308.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.I-33-16_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.I-34-1_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.I73-1.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.K11_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.K6_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.K9_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.L1-2.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.SC22-2_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.SC29-1.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.SC29-8_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.SW21-5_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.T103-1.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.T126-1_hicanu.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.T128-1.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5181_insert.Tptr3-1.contigs.fasta.blastout 5181
-python parse-insert-hits.py 5251_insert.90-2.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert90-2.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.Alg3-24.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertAlg3-24.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.Alg4x-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertAlg4x-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.AlgH1_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.D308.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.I-33-16_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.I-34-1_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.I73-1.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.K11_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.K6_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.K9_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.L1-2.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertL2-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.SC22-2_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.SC29-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertSC29-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.SC29-8_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.SW21-5_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.T103-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertT103-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.T126-1_hicanu.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.T128-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertT128-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insert.Tptr3-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5251_insertTptr3-1.contigs.fasta.blastout 5251
-python parse-insert-hits.py 5396_insert.90-2.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert90-2.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.Alg3-24.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertAlg3-24.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.Alg4x-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertAlg4x-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.AlgH1_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.D308.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.I-33-16_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.I-34-1_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.I73-1.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.K11_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.K6_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.K9_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.L1-2.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertL2-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.SC22-2_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.SC29-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertSC29-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.SC29-8_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.SW21-5_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.T103-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertT103-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.T126-1_hicanu.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.T128-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertT128-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insert.Tptr3-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5396_insertTptr3-1.contigs.fasta.blastout 5396
-python parse-insert-hits.py 5549_insert.90-2.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert90-2.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.Alg3-24.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertAlg3-24.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.Alg4x-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertAlg4x-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.AlgH1_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.D308.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.I-33-16_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.I-34-1_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.I73-1.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.K11_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.K6_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.K9_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.L1-2.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertL2-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.SC22-2_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.SC29-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertSC29-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.SC29-8_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.SW21-5_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.T103-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertT103-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.T126-1_hicanu.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.T128-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertT128-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insert.Tptr3-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5549_insertTptr3-1.contigs.fasta.blastout 5549
-python parse-insert-hits.py 5661_insert.90-2.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.Alg3-24.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.Alg4x-1.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.AlgH1_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.D308.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.I-33-16_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.I-34-1_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.I73-1.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.K11_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.K6_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.K9_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.L1-2.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.SC22-2_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.SC29-1.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.SC29-8_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.SW21-5_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.T103-1.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.T126-1_hicanu.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.T128-1.contigs.fasta.blastout 5661
-python parse-insert-hits.py 5661_insert.Tptr3-1.contigs.fasta.blastout 5661
-python parse-insert-hits.py 6070_insert.90-2.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.Alg3-24.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.Alg4x-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.AlgH1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.D308.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.I-33-16_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.I-34-1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.I73-1.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.K11_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.K6_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.K9_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.L1-2.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.SC22-2_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.SC29-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.SC29-8_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.SW21-5_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.T103-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.T126-1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.T128-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6070_insert.Tptr3-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.90-2.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.Alg3-24.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.Alg4x-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.AlgH1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.D308.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.I-33-16_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.I-34-1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.I73-1.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.K11_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.K6_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.K9_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.L1-2.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.SC22-2_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.SC29-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.SC29-8_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.SW21-5_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.T103-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.T126-1_hicanu.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.T128-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 6770_insert.Tptr3-1.contigs.fasta.blastout 6070
-python parse-insert-hits.py 7726_insert.90-2.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.Alg3-24.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.Alg4x-1.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.AlgH1_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.D308.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.I-33-16_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.I-34-1_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.I73-1.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.K11_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.K6_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.K9_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.L1-2.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.SC22-2_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.SC29-1.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.SC29-8_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.SW21-5_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.T103-1.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.T126-1_hicanu.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.T128-1.contigs.fasta.blastout 7726
-python parse-insert-hits.py 7726_insert.Tptr3-1.contigs.fasta.blastout 7726
+bash master.sh 1060_insert.90-2.contigs.fasta.blastout 1060 90-2.contigs.fasta
+bash master.sh 1060_insert.Alg3-24.contigs.fasta.blastout 1060 Alg3-24.contigs.fasta
+bash master.sh 1060_insert.Alg4x-1.contigs.fasta.blastout 1060 Alg4x-1.contigs.fasta
+bash master.sh 1060_insert.AlgH1_hicanu.contigs.fasta.blastout 1060 AlgH1_hicanu.contigs.fasta
+bash master.sh 1060_insert.D308.fasta.blastout 1060 D308.fasta
+bash master.sh 1060_insert.I-33-16_hicanu.contigs.fasta.blastout 1060 I-33-16_hicanu.contigs.fasta
+bash master.sh 1060_insert.I-34-1_hicanu.contigs.fasta.blastout 1060 I-34-1_hicanu.contigs.fasta
+bash master.sh 1060_insert.I73-1.fasta.blastout 1060 I73-1.fasta
+bash master.sh 1060_insert.K11_hicanu.contigs.fasta.blastout 1060 K11_hicanu.contigs.fasta
+bash master.sh 1060_insert.K6_hicanu.contigs.fasta.blastout 1060 K6_hicanu.contigs.fasta
+bash master.sh 1060_insert.K9_hicanu.contigs.fasta.blastout 1060 K9_hicanu.contigs.fasta
+bash master.sh 1060_insert.L1-2.contigs.fasta.blastout 1060 L1-2.contigs.fasta
+bash master.sh 1060_insert.SC22-2_hicanu.contigs.fasta.blastout 1060 SC22-2_hicanu.contigs.fasta
+bash master.sh 1060_insert.SC29-1.contigs.fasta.blastout 1060 SC29-1.contigs.fasta
+bash master.sh 1060_insert.SC29-8_hicanu.contigs.fasta.blastout 1060 SC29-8_hicanu.contigs.fasta
+bash master.sh 1060_insert.SW21-5_hicanu.contigs.fasta.blastout 1060 SW21-5_hicanu.contigs.fasta
+bash master.sh 1060_insert.T103-1.contigs.fasta.blastout 1060 T103-1.contigs.fasta
+bash master.sh 1060_insert.T126-1_hicanu.contigs.fasta.blastout 1060 T126-1_hicanu.contigs.fasta
+bash master.sh 1060_insert.T128-1.contigs.fasta.blastout 1060 T128-1.contigs.fasta
+bash master.sh 1060_insert.Tptr3-1.contigs.fasta.blastout 1060 Tptr3-1.contigs.fasta
+bash master.sh 2110_insert.90-2.contigs.fasta.blastout 2110 90-2.contigs.fasta
+bash master.sh 2110_insert.Alg3-24.contigs.fasta.blastout 2110 Alg3-24.contigs.fasta
+bash master.sh 2110_insert.Alg4x-1.contigs.fasta.blastout 2110 Alg4x-1.contigs.fasta
+bash master.sh 2110_insert.AlgH1_hicanu.contigs.fasta.blastout 2110 AlgH1_hicanu.contigs.fasta
+bash master.sh 2110_insert.D308.fasta.blastout 2110 D308.fasta
+bash master.sh 2110_insert.I-33-16_hicanu.contigs.fasta.blastout 2110 I-33-16_hicanu.contigs.fasta
+bash master.sh 2110_insert.I-34-1_hicanu.contigs.fasta.blastout 2110 I-34-1_hicanu.contigs.fasta
+bash master.sh 2110_insert.I73-1.fasta.blastout 2110 I73-1.fasta
+bash master.sh 2110_insert.K11_hicanu.contigs.fasta.blastout 2110 K11_hicanu.contigs.fasta
+bash master.sh 2110_insert.K6_hicanu.contigs.fasta.blastout 2110 K6_hicanu.contigs.fasta
+bash master.sh 2110_insert.K9_hicanu.contigs.fasta.blastout 2110 K9_hicanu.contigs.fasta
+bash master.sh 2110_insert.L1-2.contigs.fasta.blastout 2110 L1-2.contigs.fasta
+bash master.sh 2110_insert.SC22-2_hicanu.contigs.fasta.blastout 2110 SC22-2_hicanu.contigs.fasta
+bash master.sh 2110_insert.SC29-1.contigs.fasta.blastout 2110 SC29-1.contigs.fasta
+bash master.sh 2110_insert.SC29-8_hicanu.contigs.fasta.blastout 2110 SC29-8_hicanu.contigs.fasta
+bash master.sh 2110_insert.SW21-5_hicanu.contigs.fasta.blastout 2110 SW21-5_hicanu.contigs.fasta
+bash master.sh 2110_insert.T103-1.contigs.fasta.blastout 2110 T103-1.contigs.fasta
+bash master.sh 2110_insert.T126-1_hicanu.contigs.fasta.blastout 2110 T126-1_hicanu.contigs.fasta
+bash master.sh 2110_insert.T128-1.contigs.fasta.blastout 2110 T128-1.contigs.fasta
+bash master.sh 2110_insert.Tptr3-1.contigs.fasta.blastout 2110 Tptr3-1.contigs.fasta
+bash master.sh 2603_insert.90-2.contigs.fasta.blastout 2603 90-2.contigs.fasta
+bash master.sh 2603_insert.Alg3-24.contigs.fasta.blastout 2603 Alg3-24.contigs.fasta
+bash master.sh 2603_insert.Alg4x-1.contigs.fasta.blastout 2603 Alg4x-1.contigs.fasta
+bash master.sh 2603_insert.AlgH1_hicanu.contigs.fasta.blastout 2603 AlgH1_hicanu.contigs.fasta
+bash master.sh 2603_insert.D308.fasta.blastout 2603 D308.fasta
+bash master.sh 2603_insert.I-33-16_hicanu.contigs.fasta.blastout 2603 I-33-16_hicanu.contigs.fasta
+bash master.sh 2603_insert.I-34-1_hicanu.contigs.fasta.blastout 2603 I-34-1_hicanu.contigs.fasta
+bash master.sh 2603_insert.I73-1.fasta.blastout 2603 I73-1.fasta
+bash master.sh 2603_insert.K11_hicanu.contigs.fasta.blastout 2603 K11_hicanu.contigs.fasta
+bash master.sh 2603_insert.K6_hicanu.contigs.fasta.blastout 2603 K6_hicanu.contigs.fasta
+bash master.sh 2603_insert.K9_hicanu.contigs.fasta.blastout 2603 K9_hicanu.contigs.fasta
+bash master.sh 2603_insert.L1-2.contigs.fasta.blastout 2603 L1-2.contigs.fasta
+bash master.sh 2603_insert.SC22-2_hicanu.contigs.fasta.blastout 2603 SC22-2_hicanu.contigs.fasta
+bash master.sh 2603_insert.SC29-1.contigs.fasta.blastout 2603 SC29-1.contigs.fasta
+bash master.sh 2603_insert.SC29-8_hicanu.contigs.fasta.blastout 2603 SC29-8_hicanu.contigs.fasta
+bash master.sh 2603_insert.SW21-5_hicanu.contigs.fasta.blastout 2603 SW21-5_hicanu.contigs.fasta
+bash master.sh 2603_insert.T103-1.contigs.fasta.blastout 2603 T103-1.contigs.fasta
+bash master.sh 2603_insert.T126-1_hicanu.contigs.fasta.blastout 2603 T126-1_hicanu.contigs.fasta
+bash master.sh 2603_insert.T128-1.contigs.fasta.blastout 2603 T128-1.contigs.fasta
+bash master.sh 2603_insert.Tptr3-1.contigs.fasta.blastout 2603 Tptr3-1.contigs.fasta
+bash master.sh 2805_insert.90-2.contigs.fasta.blastout 2805 90-2.contigs.fasta
+bash master.sh 2805_insert.Alg3-24.contigs.fasta.blastout 2805 Alg3-24.contigs.fasta
+bash master.sh 2805_insert.Alg4x-1.contigs.fasta.blastout 2805 Alg4x-1.contigs.fasta
+bash master.sh 2805_insert.AlgH1_hicanu.contigs.fasta.blastout 2805 AlgH1_hicanu.contigs.fasta
+bash master.sh 2805_insert.D308.fasta.blastout 2805 D308.fasta
+bash master.sh 2805_insert.I-33-16_hicanu.contigs.fasta.blastout 2805 I-33-16_hicanu.contigs.fasta
+bash master.sh 2805_insert.I-34-1_hicanu.contigs.fasta.blastout 2805 I-34-1_hicanu.contigs.fasta
+bash master.sh 2805_insert.I73-1.fasta.blastout 2805 I73-1.fasta
+bash master.sh 2805_insert.K11_hicanu.contigs.fasta.blastout 2805 K11_hicanu.contigs.fasta
+bash master.sh 2805_insert.K6_hicanu.contigs.fasta.blastout 2805 K6_hicanu.contigs.fasta
+bash master.sh 2805_insert.K9_hicanu.contigs.fasta.blastout 2805 K9_hicanu.contigs.fasta
+bash master.sh 2805_insert.L1-2.contigs.fasta.blastout 2805 L1-2.contigs.fasta
+bash master.sh 2805_insert.SC22-2_hicanu.contigs.fasta.blastout 2805 SC22-2_hicanu.contigs.fasta
+bash master.sh 2805_insert.SC29-1.contigs.fasta.blastout 2805 SC29-1.contigs.fasta
+bash master.sh 2805_insert.SC29-8_hicanu.contigs.fasta.blastout 2805 SC29-8_hicanu.contigs.fasta
+bash master.sh 2805_insert.SW21-5_hicanu.contigs.fasta.blastout 2805 SW21-5_hicanu.contigs.fasta
+bash master.sh 2805_insert.T103-1.contigs.fasta.blastout 2805 T103-1.contigs.fasta
+bash master.sh 2805_insert.T126-1_hicanu.contigs.fasta.blastout 2805 T126-1_hicanu.contigs.fasta
+bash master.sh 2805_insert.T128-1.contigs.fasta.blastout 2805 T128-1.contigs.fasta
+bash master.sh 2805_insert.Tptr3-1.contigs.fasta.blastout 2805 Tptr3-1.contigs.fasta
+bash master.sh 5181_insert.90-2.contigs.fasta.blastout 5181 90-2.contigs.fasta
+bash master.sh 5181_insert.Alg3-24.contigs.fasta.blastout 5181 Alg3-24.contigs.fasta
+bash master.sh 5181_insert.Alg4x-1.contigs.fasta.blastout 5181 Alg4x-1.contigs.fasta
+bash master.sh 5181_insert.AlgH1_hicanu.contigs.fasta.blastout 5181 AlgH1_hicanu.contigs.fasta
+bash master.sh 5181_insert.D308.fasta.blastout 5181 D308.fasta
+bash master.sh 5181_insert.I-33-16_hicanu.contigs.fasta.blastout 5181 I-33-16_hicanu.contigs.fasta
+bash master.sh 5181_insert.I-34-1_hicanu.contigs.fasta.blastout 5181 I-34-1_hicanu.contigs.fasta
+bash master.sh 5181_insert.I73-1.fasta.blastout 5181 I73-1.fasta
+bash master.sh 5181_insert.K11_hicanu.contigs.fasta.blastout 5181 K11_hicanu.contigs.fasta
+bash master.sh 5181_insert.K6_hicanu.contigs.fasta.blastout 5181 K6_hicanu.contigs.fasta
+bash master.sh 5181_insert.K9_hicanu.contigs.fasta.blastout 5181 K9_hicanu.contigs.fasta
+bash master.sh 5181_insert.L1-2.contigs.fasta.blastout 5181 L1-2.contigs.fasta
+bash master.sh 5181_insert.SC22-2_hicanu.contigs.fasta.blastout 5181 SC22-2_hicanu.contigs.fasta
+bash master.sh 5181_insert.SC29-1.contigs.fasta.blastout 5181 SC29-1.contigs.fasta
+bash master.sh 5181_insert.SC29-8_hicanu.contigs.fasta.blastout 5181 SC29-8_hicanu.contigs.fasta
+bash master.sh 5181_insert.SW21-5_hicanu.contigs.fasta.blastout 5181 SW21-5_hicanu.contigs.fasta
+bash master.sh 5181_insert.T103-1.contigs.fasta.blastout 5181 T103-1.contigs.fasta
+bash master.sh 5181_insert.T126-1_hicanu.contigs.fasta.blastout 5181 T126-1_hicanu.contigs.fasta
+bash master.sh 5181_insert.T128-1.contigs.fasta.blastout 5181 T128-1.contigs.fasta
+bash master.sh 5181_insert.Tptr3-1.contigs.fasta.blastout 5181 Tptr3-1.contigs.fasta
+bash master.sh 5251_insert.90-2.contigs.fasta.blastout 5251 90-2.contigs.fasta
+bash master.sh 5251_insert90-2.contigs.fasta.blastout 5251 0-2.contigs.fasta
+bash master.sh 5251_insert.Alg3-24.contigs.fasta.blastout 5251 Alg3-24.contigs.fasta
+bash master.sh 5251_insertAlg3-24.contigs.fasta.blastout 5251 lg3-24.contigs.fasta
+bash master.sh 5251_insert.Alg4x-1.contigs.fasta.blastout 5251 Alg4x-1.contigs.fasta
+bash master.sh 5251_insertAlg4x-1.contigs.fasta.blastout 5251 lg4x-1.contigs.fasta
+bash master.sh 5251_insert.AlgH1_hicanu.contigs.fasta.blastout 5251 AlgH1_hicanu.contigs.fasta
+bash master.sh 5251_insert.D308.fasta.blastout 5251 D308.fasta
+bash master.sh 5251_insert.I-33-16_hicanu.contigs.fasta.blastout 5251 I-33-16_hicanu.contigs.fasta
+bash master.sh 5251_insert.I-34-1_hicanu.contigs.fasta.blastout 5251 I-34-1_hicanu.contigs.fasta
+bash master.sh 5251_insert.I73-1.fasta.blastout 5251 I73-1.fasta
+bash master.sh 5251_insert.K11_hicanu.contigs.fasta.blastout 5251 K11_hicanu.contigs.fasta
+bash master.sh 5251_insert.K6_hicanu.contigs.fasta.blastout 5251 K6_hicanu.contigs.fasta
+bash master.sh 5251_insert.K9_hicanu.contigs.fasta.blastout 5251 K9_hicanu.contigs.fasta
+bash master.sh 5251_insert.L1-2.contigs.fasta.blastout 5251 L1-2.contigs.fasta
+bash master.sh 5251_insertL2-1.contigs.fasta.blastout 5251 2-1.contigs.fasta
+bash master.sh 5251_insert.SC22-2_hicanu.contigs.fasta.blastout 5251 SC22-2_hicanu.contigs.fasta
+bash master.sh 5251_insert.SC29-1.contigs.fasta.blastout 5251 SC29-1.contigs.fasta
+bash master.sh 5251_insertSC29-1.contigs.fasta.blastout 5251 C29-1.contigs.fasta
+bash master.sh 5251_insert.SC29-8_hicanu.contigs.fasta.blastout 5251 SC29-8_hicanu.contigs.fasta
+bash master.sh 5251_insert.SW21-5_hicanu.contigs.fasta.blastout 5251 SW21-5_hicanu.contigs.fasta
+bash master.sh 5251_insert.T103-1.contigs.fasta.blastout 5251 T103-1.contigs.fasta
+bash master.sh 5251_insertT103-1.contigs.fasta.blastout 5251 103-1.contigs.fasta
+bash master.sh 5251_insert.T126-1_hicanu.contigs.fasta.blastout 5251 T126-1_hicanu.contigs.fasta
+bash master.sh 5251_insert.T128-1.contigs.fasta.blastout 5251 T128-1.contigs.fasta
+bash master.sh 5251_insertT128-1.contigs.fasta.blastout 5251 128-1.contigs.fasta
+bash master.sh 5251_insert.Tptr3-1.contigs.fasta.blastout 5251 Tptr3-1.contigs.fasta
+bash master.sh 5251_insertTptr3-1.contigs.fasta.blastout 5251 ptr3-1.contigs.fasta
+bash master.sh 5396_insert.90-2.contigs.fasta.blastout 5396 90-2.contigs.fasta
+bash master.sh 5396_insert90-2.contigs.fasta.blastout 5396 0-2.contigs.fasta
+bash master.sh 5396_insert.Alg3-24.contigs.fasta.blastout 5396 Alg3-24.contigs.fasta
+bash master.sh 5396_insertAlg3-24.contigs.fasta.blastout 5396 lg3-24.contigs.fasta
+bash master.sh 5396_insert.Alg4x-1.contigs.fasta.blastout 5396 Alg4x-1.contigs.fasta
+bash master.sh 5396_insertAlg4x-1.contigs.fasta.blastout 5396 lg4x-1.contigs.fasta
+bash master.sh 5396_insert.AlgH1_hicanu.contigs.fasta.blastout 5396 AlgH1_hicanu.contigs.fasta
+bash master.sh 5396_insert.D308.fasta.blastout 5396 D308.fasta
+bash master.sh 5396_insert.I-33-16_hicanu.contigs.fasta.blastout 5396 I-33-16_hicanu.contigs.fasta
+bash master.sh 5396_insert.I-34-1_hicanu.contigs.fasta.blastout 5396 I-34-1_hicanu.contigs.fasta
+bash master.sh 5396_insert.I73-1.fasta.blastout 5396 I73-1.fasta
+bash master.sh 5396_insert.K11_hicanu.contigs.fasta.blastout 5396 K11_hicanu.contigs.fasta
+bash master.sh 5396_insert.K6_hicanu.contigs.fasta.blastout 5396 K6_hicanu.contigs.fasta
+bash master.sh 5396_insert.K9_hicanu.contigs.fasta.blastout 5396 K9_hicanu.contigs.fasta
+bash master.sh 5396_insert.L1-2.contigs.fasta.blastout 5396 L1-2.contigs.fasta
+bash master.sh 5396_insertL2-1.contigs.fasta.blastout 5396 2-1.contigs.fasta
+bash master.sh 5396_insert.SC22-2_hicanu.contigs.fasta.blastout 5396 SC22-2_hicanu.contigs.fasta
+bash master.sh 5396_insert.SC29-1.contigs.fasta.blastout 5396 SC29-1.contigs.fasta
+bash master.sh 5396_insertSC29-1.contigs.fasta.blastout 5396 C29-1.contigs.fasta
+bash master.sh 5396_insert.SC29-8_hicanu.contigs.fasta.blastout 5396 SC29-8_hicanu.contigs.fasta
+bash master.sh 5396_insert.SW21-5_hicanu.contigs.fasta.blastout 5396 SW21-5_hicanu.contigs.fasta
+bash master.sh 5396_insert.T103-1.contigs.fasta.blastout 5396 T103-1.contigs.fasta
+bash master.sh 5396_insertT103-1.contigs.fasta.blastout 5396 103-1.contigs.fasta
+bash master.sh 5396_insert.T126-1_hicanu.contigs.fasta.blastout 5396 T126-1_hicanu.contigs.fasta
+bash master.sh 5396_insert.T128-1.contigs.fasta.blastout 5396 T128-1.contigs.fasta
+bash master.sh 5396_insertT128-1.contigs.fasta.blastout 5396 128-1.contigs.fasta
+bash master.sh 5396_insert.Tptr3-1.contigs.fasta.blastout 5396 Tptr3-1.contigs.fasta
+bash master.sh 5396_insertTptr3-1.contigs.fasta.blastout 5396 ptr3-1.contigs.fasta
+bash master.sh 5549_insert.90-2.contigs.fasta.blastout 5549 90-2.contigs.fasta
+bash master.sh 5549_insert90-2.contigs.fasta.blastout 5549 0-2.contigs.fasta
+bash master.sh 5549_insert.Alg3-24.contigs.fasta.blastout 5549 Alg3-24.contigs.fasta
+bash master.sh 5549_insertAlg3-24.contigs.fasta.blastout 5549 lg3-24.contigs.fasta
+bash master.sh 5549_insert.Alg4x-1.contigs.fasta.blastout 5549 Alg4x-1.contigs.fasta
+bash master.sh 5549_insertAlg4x-1.contigs.fasta.blastout 5549 lg4x-1.contigs.fasta
+bash master.sh 5549_insert.AlgH1_hicanu.contigs.fasta.blastout 5549 AlgH1_hicanu.contigs.fasta
+bash master.sh 5549_insert.D308.fasta.blastout 5549 D308.fasta
+bash master.sh 5549_insert.I-33-16_hicanu.contigs.fasta.blastout 5549 I-33-16_hicanu.contigs.fasta
+bash master.sh 5549_insert.I-34-1_hicanu.contigs.fasta.blastout 5549 I-34-1_hicanu.contigs.fasta
+bash master.sh 5549_insert.I73-1.fasta.blastout 5549 I73-1.fasta
+bash master.sh 5549_insert.K11_hicanu.contigs.fasta.blastout 5549 K11_hicanu.contigs.fasta
+bash master.sh 5549_insert.K6_hicanu.contigs.fasta.blastout 5549 K6_hicanu.contigs.fasta
+bash master.sh 5549_insert.K9_hicanu.contigs.fasta.blastout 5549 K9_hicanu.contigs.fasta
+bash master.sh 5549_insert.L1-2.contigs.fasta.blastout 5549 L1-2.contigs.fasta
+bash master.sh 5549_insertL2-1.contigs.fasta.blastout 5549 2-1.contigs.fasta
+bash master.sh 5549_insert.SC22-2_hicanu.contigs.fasta.blastout 5549 SC22-2_hicanu.contigs.fasta
+bash master.sh 5549_insert.SC29-1.contigs.fasta.blastout 5549 SC29-1.contigs.fasta
+bash master.sh 5549_insertSC29-1.contigs.fasta.blastout 5549 C29-1.contigs.fasta
+bash master.sh 5549_insert.SC29-8_hicanu.contigs.fasta.blastout 5549 SC29-8_hicanu.contigs.fasta
+bash master.sh 5549_insert.SW21-5_hicanu.contigs.fasta.blastout 5549 SW21-5_hicanu.contigs.fasta
+bash master.sh 5549_insert.T103-1.contigs.fasta.blastout 5549 T103-1.contigs.fasta
+bash master.sh 5549_insertT103-1.contigs.fasta.blastout 5549 103-1.contigs.fasta
+bash master.sh 5549_insert.T126-1_hicanu.contigs.fasta.blastout 5549 T126-1_hicanu.contigs.fasta
+bash master.sh 5549_insert.T128-1.contigs.fasta.blastout 5549 T128-1.contigs.fasta
+bash master.sh 5549_insertT128-1.contigs.fasta.blastout 5549 128-1.contigs.fasta
+bash master.sh 5549_insert.Tptr3-1.contigs.fasta.blastout 5549 Tptr3-1.contigs.fasta
+bash master.sh 5549_insertTptr3-1.contigs.fasta.blastout 5549 ptr3-1.contigs.fasta
+bash master.sh 5661_insert.90-2.contigs.fasta.blastout 5661 90-2.contigs.fasta
+bash master.sh 5661_insert.Alg3-24.contigs.fasta.blastout 5661 Alg3-24.contigs.fasta
+bash master.sh 5661_insert.Alg4x-1.contigs.fasta.blastout 5661 Alg4x-1.contigs.fasta
+bash master.sh 5661_insert.AlgH1_hicanu.contigs.fasta.blastout 5661 AlgH1_hicanu.contigs.fasta
+bash master.sh 5661_insert.D308.fasta.blastout 5661 D308.fasta
+bash master.sh 5661_insert.I-33-16_hicanu.contigs.fasta.blastout 5661 I-33-16_hicanu.contigs.fasta
+bash master.sh 5661_insert.I-34-1_hicanu.contigs.fasta.blastout 5661 I-34-1_hicanu.contigs.fasta
+bash master.sh 5661_insert.I73-1.fasta.blastout 5661 I73-1.fasta
+bash master.sh 5661_insert.K11_hicanu.contigs.fasta.blastout 5661 K11_hicanu.contigs.fasta
+bash master.sh 5661_insert.K6_hicanu.contigs.fasta.blastout 5661 K6_hicanu.contigs.fasta
+bash master.sh 5661_insert.K9_hicanu.contigs.fasta.blastout 5661 K9_hicanu.contigs.fasta
+bash master.sh 5661_insert.L1-2.contigs.fasta.blastout 5661 L1-2.contigs.fasta
+bash master.sh 5661_insert.SC22-2_hicanu.contigs.fasta.blastout 5661 SC22-2_hicanu.contigs.fasta
+bash master.sh 5661_insert.SC29-1.contigs.fasta.blastout 5661 SC29-1.contigs.fasta
+bash master.sh 5661_insert.SC29-8_hicanu.contigs.fasta.blastout 5661 SC29-8_hicanu.contigs.fasta
+bash master.sh 5661_insert.SW21-5_hicanu.contigs.fasta.blastout 5661 SW21-5_hicanu.contigs.fasta
+bash master.sh 5661_insert.T103-1.contigs.fasta.blastout 5661 T103-1.contigs.fasta
+bash master.sh 5661_insert.T126-1_hicanu.contigs.fasta.blastout 5661 T126-1_hicanu.contigs.fasta
+bash master.sh 5661_insert.T128-1.contigs.fasta.blastout 5661 T128-1.contigs.fasta
+bash master.sh 5661_insert.Tptr3-1.contigs.fasta.blastout 5661 Tptr3-1.contigs.fasta
+bash master.sh 6070_insert.90-2.contigs.fasta.blastout 6070 90-2.contigs.fasta
+bash master.sh 6070_insert.Alg3-24.contigs.fasta.blastout 6070 Alg3-24.contigs.fasta
+bash master.sh 6070_insert.Alg4x-1.contigs.fasta.blastout 6070 Alg4x-1.contigs.fasta
+bash master.sh 6070_insert.AlgH1_hicanu.contigs.fasta.blastout 6070 AlgH1_hicanu.contigs.fasta
+bash master.sh 6070_insert.D308.fasta.blastout 6070 D308.fasta
+bash master.sh 6070_insert.I-33-16_hicanu.contigs.fasta.blastout 6070 I-33-16_hicanu.contigs.fasta
+bash master.sh 6070_insert.I-34-1_hicanu.contigs.fasta.blastout 6070 I-34-1_hicanu.contigs.fasta
+bash master.sh 6070_insert.I73-1.fasta.blastout 6070 I73-1.fasta
+bash master.sh 6070_insert.K11_hicanu.contigs.fasta.blastout 6070 K11_hicanu.contigs.fasta
+bash master.sh 6070_insert.K6_hicanu.contigs.fasta.blastout 6070 K6_hicanu.contigs.fasta
+bash master.sh 6070_insert.K9_hicanu.contigs.fasta.blastout 6070 K9_hicanu.contigs.fasta
+bash master.sh 6070_insert.L1-2.contigs.fasta.blastout 6070 L1-2.contigs.fasta
+bash master.sh 6070_insert.SC22-2_hicanu.contigs.fasta.blastout 6070 SC22-2_hicanu.contigs.fasta
+bash master.sh 6070_insert.SC29-1.contigs.fasta.blastout 6070 SC29-1.contigs.fasta
+bash master.sh 6070_insert.SC29-8_hicanu.contigs.fasta.blastout 6070 SC29-8_hicanu.contigs.fasta
+bash master.sh 6070_insert.SW21-5_hicanu.contigs.fasta.blastout 6070 SW21-5_hicanu.contigs.fasta
+bash master.sh 6070_insert.T103-1.contigs.fasta.blastout 6070 T103-1.contigs.fasta
+bash master.sh 6070_insert.T126-1_hicanu.contigs.fasta.blastout 6070 T126-1_hicanu.contigs.fasta
+bash master.sh 6070_insert.T128-1.contigs.fasta.blastout 6070 T128-1.contigs.fasta
+bash master.sh 6070_insert.Tptr3-1.contigs.fasta.blastout 6070 Tptr3-1.contigs.fasta
+bash master.sh 6770_insert.90-2.contigs.fasta.blastout 6070 90-2.contigs.fasta
+bash master.sh 6770_insert.Alg3-24.contigs.fasta.blastout 6070 Alg3-24.contigs.fasta
+bash master.sh 6770_insert.Alg4x-1.contigs.fasta.blastout 6070 Alg4x-1.contigs.fasta
+bash master.sh 6770_insert.AlgH1_hicanu.contigs.fasta.blastout 6070 AlgH1_hicanu.contigs.fasta
+bash master.sh 6770_insert.D308.fasta.blastout 6070 D308.fasta
+bash master.sh 6770_insert.I-33-16_hicanu.contigs.fasta.blastout 6070 I-33-16_hicanu.contigs.fasta
+bash master.sh 6770_insert.I-34-1_hicanu.contigs.fasta.blastout 6070 I-34-1_hicanu.contigs.fasta
+bash master.sh 6770_insert.I73-1.fasta.blastout 6070 I73-1.fasta
+bash master.sh 6770_insert.K11_hicanu.contigs.fasta.blastout 6070 K11_hicanu.contigs.fasta
+bash master.sh 6770_insert.K6_hicanu.contigs.fasta.blastout 6070 K6_hicanu.contigs.fasta
+bash master.sh 6770_insert.K9_hicanu.contigs.fasta.blastout 6070 K9_hicanu.contigs.fasta
+bash master.sh 6770_insert.L1-2.contigs.fasta.blastout 6070 L1-2.contigs.fasta
+bash master.sh 6770_insert.SC22-2_hicanu.contigs.fasta.blastout 6070 SC22-2_hicanu.contigs.fasta
+bash master.sh 6770_insert.SC29-1.contigs.fasta.blastout 6070 SC29-1.contigs.fasta
+bash master.sh 6770_insert.SC29-8_hicanu.contigs.fasta.blastout 6070 SC29-8_hicanu.contigs.fasta
+bash master.sh 6770_insert.SW21-5_hicanu.contigs.fasta.blastout 6070 SW21-5_hicanu.contigs.fasta
+bash master.sh 6770_insert.T103-1.contigs.fasta.blastout 6070 T103-1.contigs.fasta
+bash master.sh 6770_insert.T126-1_hicanu.contigs.fasta.blastout 6070 T126-1_hicanu.contigs.fasta
+bash master.sh 6770_insert.T128-1.contigs.fasta.blastout 6070 T128-1.contigs.fasta
+bash master.sh 6770_insert.Tptr3-1.contigs.fasta.blastout 6070 Tptr3-1.contigs.fasta
+bash master.sh 7726_insert.90-2.contigs.fasta.blastout 7726 90-2.contigs.fasta
+bash master.sh 7726_insert.Alg3-24.contigs.fasta.blastout 7726 Alg3-24.contigs.fasta
+bash master.sh 7726_insert.Alg4x-1.contigs.fasta.blastout 7726 Alg4x-1.contigs.fasta
+bash master.sh 7726_insert.AlgH1_hicanu.contigs.fasta.blastout 7726 AlgH1_hicanu.contigs.fasta
+bash master.sh 7726_insert.D308.fasta.blastout 7726 D308.fasta
+bash master.sh 7726_insert.I-33-16_hicanu.contigs.fasta.blastout 7726 I-33-16_hicanu.contigs.fasta
+bash master.sh 7726_insert.I-34-1_hicanu.contigs.fasta.blastout 7726 I-34-1_hicanu.contigs.fasta
+bash master.sh 7726_insert.I73-1.fasta.blastout 7726 I73-1.fasta
+bash master.sh 7726_insert.K11_hicanu.contigs.fasta.blastout 7726 K11_hicanu.contigs.fasta
+bash master.sh 7726_insert.K6_hicanu.contigs.fasta.blastout 7726 K6_hicanu.contigs.fasta
+bash master.sh 7726_insert.K9_hicanu.contigs.fasta.blastout 7726 K9_hicanu.contigs.fasta
+bash master.sh 7726_insert.L1-2.contigs.fasta.blastout 7726 L1-2.contigs.fasta
+bash master.sh 7726_insert.SC22-2_hicanu.contigs.fasta.blastout 7726 SC22-2_hicanu.contigs.fasta
+bash master.sh 7726_insert.SC29-1.contigs.fasta.blastout 7726 SC29-1.contigs.fasta
+bash master.sh 7726_insert.SC29-8_hicanu.contigs.fasta.blastout 7726 SC29-8_hicanu.contigs.fasta
+bash master.sh 7726_insert.SW21-5_hicanu.contigs.fasta.blastout 7726 SW21-5_hicanu.contigs.fasta
+bash master.sh 7726_insert.T103-1.contigs.fasta.blastout 7726 T103-1.contigs.fasta
+bash master.sh 7726_insert.T126-1_hicanu.contigs.fasta.blastout 7726 T126-1_hicanu.contigs.fasta
+bash master.sh 7726_insert.T128-1.contigs.fasta.blastout 7726 T128-1.contigs.fasta
+bash master.sh 7726_insert.Tptr3-1.contigs.fasta.blastout 7726 Tptr3-1.contigs.fasta
