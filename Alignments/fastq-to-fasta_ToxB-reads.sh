@@ -1,3 +1,6 @@
+#Purpose of this script is to convert reads to fasta format so we can blast them
+#Reason to blast is to see if single reads overlap the replication of ToxB
+#This confirms that it is no misassembly
 
 #Convert fastq reads to fasta format
 mamba activate bbmap
