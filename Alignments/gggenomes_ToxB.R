@@ -1,15 +1,15 @@
 #install.packages('Rtools')
 #install.packages('gggenomes')
 #devtools::install_github("thackl/gggenomes")
-#library(gggenomes)
-#library(ggplot2)
+library(gggenomes)
+library(ggplot2)
 #install.packages('tidyverse')
-#library(tidyverse)
-#library(dplyr)
+library(tidyverse)
+library(dplyr)
 
 
 # Load LASTZ output; assuming it's a tab-delimited file with appropriate headers
-lastz_output <-read.delim("z:/Gourlie/genome/Ptr/lastz/gggenome_ToxB_lastz.txt", comment.char = "#", header = FALSE)
+lastz_output <-read.delim("z:/Gourlie/genome/Ptr/lastz/gggenome_ToxB_lastz_length-greater-than-500bp_85percid_trim-clutter.txt", comment.char = "#", header = FALSE)
 
 
 # Define column names based on your LASTZ output format
@@ -17,7 +17,7 @@ colnames(lastz_output) <- c("name1","strand1","start1","end1","length1","name2",
 
 # filter alignments less than 3000bp for clarity
 lastz_output <- lastz_output %>%
-  mutate(identity = as.numeric(str_replace(identity, "%", "")))
+  mutate(identity = as.numeric(str_replace(identity, "%", "2000"))) 
 
 # Convert to a DataFrame compatible with gggenomes
 # Assuming you want to visualize links between name1 and name2
@@ -37,10 +37,10 @@ lzlinks <- lastz_output %>%
 Minimap2_links <- read_paf("z:/Gourlie/genome/Ptr/lastz/gggenomes_ToxB.paf")
 
 # Read the FASTA file into a seq object
-Sanc_seq <- read_fai("z:/Gourlie/genome/Ptr/lastz/gggenomes_ToxB.fasta.fai")
+sequences <- read_fai("z:/Gourlie/genome/Ptr/lastz/gggenomes_ToxB.fasta.fai")
 
 # Read in gff annotation
-gff <-read.delim("z:/Gourlie/genome/Ptr/lastz/test2.gff", comment.char = "#", header = FALSE)
+gff <-read.delim("z:/Gourlie/genome/Ptr/lastz/gggenome_ToxB-annotations.gff", comment.char = "#", header = FALSE)
 colnames(gff) <- c("chr","source","type","start","end","dot","strand","dot2","Feature") 
 genes<- gff %>%
   transmute(
@@ -50,23 +50,28 @@ genes<- gff %>%
     strand= strand,
     feat_id = type)
 
-rhg_cols <- c("red","#F27314", "#E25033", "#AA3929", "yellow", 
-              "pink", "green", "#000000", "#D0E1F9", "blue")
+# Colors for feature annotations
+rhg_cols <- c("red","#F27314", "#E25033", "#AA3929",  
+              "pink", "green", "#000000", "lightyellow", "yellow")
 
 # my test
+#install.packages("ggnewscale")
+library(ggnewscale)
+#library(viridis)
 gggenomes(
-  seqs = Sanc_seq, links= lzlinks, genes = genes)+
+  seqs = sequences, links=lzlinks, genes=genes)+
   #feats = list(emale_tirs, ngaros=emale_ngaros, gc=emale_gc)) |> 
   #add_sublinks(emale_prot_ava) |>
   #sync() + # synchronize genome directions based on links
   #geom_feat(position="identity", size=6) +
   geom_bin_label(expand_left = .5) +
   geom_seq(size=1.2) +
-  geom_link(color="cornsilk3",alpha=0.4) +
+  geom_link(aes(fill=perc_id),color="black",alpha=0.4) +
+  scale_fill_distiller("Identity (%)", palette = "Spectral", direction="horizontal")+
+  new_scale_fill()+
   geom_bin_label() +
   geom_gene(aes(fill=feat_id), size=4)+
-  theme(legend.text=element_text(size=15),
-        legend.title = element_text(size=17),
-        axis.text.x=element_text(size=15))+
+  theme(legend.text=element_text(size=12),
+        legend.title = element_text(size=14),
+        axis.text.x=element_text(size=12))+
   scale_fill_manual("Features", values=rhg_cols)
-
