@@ -1,4 +1,4 @@
-# Path to your FASTA file
+# Path fasta with all seqs
 fasta_file="gggenomes_ToxB.fasta"
 
 # Run lastz and output with useful fields.Note most important setting is to report start2+ and end2+ which reports alignments on plus
