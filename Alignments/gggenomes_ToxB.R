@@ -3,14 +3,12 @@
 #devtools::install_github("thackl/gggenomes")
 library(gggenomes)
 library(ggplot2)
-#install.packages('tidyverse')
 library(tidyverse)
 library(dplyr)
-
+library(ggnewscale)
 
 # Load LASTZ output; assuming it's a tab-delimited file with appropriate headers
-lastz_output <-read.delim("z:/Gourlie/genome/Ptr/lastz/gggenome_ToxB_lastz_length-greater-than-500bp_85percid_trim-clutter.txt", comment.char = "#", header = FALSE)
-
+lastz_output <-read.delim("z:/User/genome/Ptr/lastz/gggenome_ToxB_lastz_length-greater-than-500bp_85percid_trim-clutter.txt", comment.char = "#", header = FALSE)
 
 # Define column names based on your LASTZ output format
 colnames(lastz_output) <- c("name1","strand1","start1","end1","length1","name2","strand2","start2","end2","length2","cov","identity")
@@ -34,13 +32,13 @@ lzlinks <- lastz_output %>%
   ) 
 
 # Read in minimap2 links from .paf file
-Minimap2_links <- read_paf("z:/Gourlie/genome/Ptr/lastz/gggenomes_ToxB.paf")
+Minimap2_links <- read_paf("z:/User/genome/Ptr/lastz/gggenomes_ToxB.paf")
 
 # Read the FASTA file into a seq object
-sequences <- read_fai("z:/Gourlie/genome/Ptr/lastz/gggenomes_ToxB.fasta.fai")
+sequences <- read_fai("z:/User/genome/Ptr/lastz/gggenomes_ToxB.fasta.fai")
 
 # Read in gff annotation
-gff <-read.delim("z:/Gourlie/genome/Ptr/lastz/gggenome_ToxB-annotations.gff", comment.char = "#", header = FALSE)
+gff <-read.delim("z:/User/genome/Ptr/lastz/gggenome_ToxB-annotations.gff", comment.char = "#", header = FALSE)
 colnames(gff) <- c("chr","source","type","start","end","dot","strand","dot2","Feature") 
 genes<- gff %>%
   transmute(
@@ -54,23 +52,15 @@ genes<- gff %>%
 rhg_cols <- c("red","#F27314", "#E25033", "#AA3929",  
               "pink", "green", "#000000", "lightyellow", "yellow")
 
-# my test
-#install.packages("ggnewscale")
-library(ggnewscale)
-#library(viridis)
 gggenomes(
-  seqs = sequences, links=lzlinks, genes=genes)+
-  #feats = list(emale_tirs, ngaros=emale_ngaros, gc=emale_gc)) |> 
-  #add_sublinks(emale_prot_ava) |>
-  #sync() + # synchronize genome directions based on links
-  #geom_feat(position="identity", size=6) +
+  seqs = sequences, links=lzlinks, genes=genes) +
   geom_bin_label(expand_left = .5) +
   geom_seq(size=1.2) +
   geom_link(aes(fill=perc_id),color="black",alpha=0.4) +
-  scale_fill_distiller("Identity (%)", palette = "Spectral", direction="horizontal")+
-  new_scale_fill()+
+  scale_fill_distiller("Identity (%)", palette = "Spectral", direction="horizontal") +
+  new_scale_fill() +
   geom_bin_label() +
-  geom_gene(aes(fill=feat_id), size=4)+
+  geom_gene(aes(fill=feat_id), size=4) +
   theme(legend.text=element_text(size=12),
         legend.title = element_text(size=14),
         axis.text.x=element_text(size=12))+
