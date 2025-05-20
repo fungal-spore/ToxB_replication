@@ -5,6 +5,7 @@ Dumps to output.txt
 '''
 #usage: python parse-insert-hits.py *.blastout query-length
 
+#pip install pandas
 import pandas as pd
 import sys
 
