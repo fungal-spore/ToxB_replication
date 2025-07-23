@@ -4,7 +4,7 @@
 ᵃAgriculture and Agri-food Canada, Lethbridge, Alberta, T1J 4B1, Canada;
 ᵇSchool of Biosciences, Institute of Microbiology and Infection, University of Birmingham, Edgbaston, Birmingham, B15 2TT, United Kingdom
 
-*Corresponding Authors: R. Aboukhaddour; e-mail: reemaboukhaddour@agr.gc.ca; M.C. McDonald; email: m.c.mcdonald@bham.ac.uk
+*Corresponding Authors: R. Aboukhaddour; e-mail: reemaboukhaddour at agr.gc.ca; M.C. McDonald; email: m.c.mcdonald at bham.ac.uk
 
 ORCID: R. Gourlie 0000-0003-3515-6737; Megan C. McDonald 0000-0002-9129-7393; Mohamed Hafez 0000-0001-9111-4983; Reem Aboukhaddour 000-0002-4040-9471
 
