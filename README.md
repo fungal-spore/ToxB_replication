@@ -1,6 +1,6 @@
 # The virulence gene ToxB is both amplified and disrupted by transposons in the wheat pathogen Pyrenophora tritici-repentis
 
-[Ryan Gourlieᵃ], [Megan C. McDonaldᵇ]*, [Mohamed Hafezᵃ], and Reem [Reem Aboukhaddourᵃ]*
+[Ryan Gourlieᵃ](https://scholar.google.ca/citations?user=gBrcH-QAAAAJ&hl=en), [Megan C. McDonaldᵇ](https://scholar.google.ca/citations?user=eS8xGQcAAAAJ&hl=en&oi=ao)*, [Mohamed Hafezᵃ](https://scholar.google.ca/citations?user=Enk-QRYAAAAJ&hl=en), and Reem [Reem Aboukhaddourᵃ](https://scholar.google.ca/citations?user=JDMguYUAAAAJ&hl=en&oi=ao)*
 
 1Agriculture and Agri-food Canada, Lethbridge, Alberta, T1J 4B1, Canada
 2School of Biosciences, Institute of Microbiology and Infection, University of Birmingham, Edgbaston, Birmingham, B15 2TT, United Kingdom
