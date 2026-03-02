@@ -21,4 +21,4 @@ Summary
 •	This study provides strong evidence supporting the hypothesis that transposons play dual roles in the rapid evolution of fungal pathogenicity by both amplifying and disrupting a key virulence gene in a globally distributed plant pathogen. 
 
 Cite As:
-Gourlie, R., McDonald, M.C., Hafez, M., and Aboukhaddour, R., YEAR. The virulence gene ToxB is both amplified and disrupted by transposons in the wheat pathogen Pyrenophora tritici-repentis. Journal.
+Gourlie, R., McDonald, M.C., Hafez, M., and Aboukhaddour, R., 2026. The virulence gene ToxB is both amplified and disrupted by transposons in the wheat pathogen Pyrenophora tritici-repentis. Molecular Plant-Microbe Interactions.
