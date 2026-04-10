@@ -9,6 +9,7 @@
 ORCID: R. Gourlie 0000-0003-3515-6737; Megan C. McDonald 0000-0002-9129-7393; Mohamed Hafez 0000-0001-9111-4983; Reem Aboukhaddour 000-0002-4040-9471
 
 [BioRxiv Link](https://www.biorxiv.org/content/10.1101/2025.11.13.688278v1)
+
 [Published Article](https://apsjournals.apsnet.org/doi/abs/10.1094/MPMI-01-26-0003-R)
 
 Summary
