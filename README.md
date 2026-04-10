@@ -9,6 +9,7 @@
 ORCID: R. Gourlie 0000-0003-3515-6737; Megan C. McDonald 0000-0002-9129-7393; Mohamed Hafez 0000-0001-9111-4983; Reem Aboukhaddour 000-0002-4040-9471
 
 [BioRxiv Link](https://www.biorxiv.org/content/10.1101/2025.11.13.688278v1)
+[Published Article](https://apsjournals.apsnet.org/doi/abs/10.1094/MPMI-01-26-0003-R)
 
 Summary
 
@@ -21,4 +22,4 @@ Summary
 •	This study provides strong evidence supporting the hypothesis that transposons play dual roles in the rapid evolution of fungal pathogenicity by both amplifying and disrupting a key virulence gene in a globally distributed plant pathogen. 
 
 Cite As:
-Gourlie, R., McDonald, M.C., Hafez, M., and Aboukhaddour, R., 2026. The virulence gene ToxB is both amplified and disrupted by transposons in the wheat pathogen Pyrenophora tritici-repentis. Molecular Plant-Microbe Interactions.
+Gourlie, R., McDonald, M.C., Hafez, M., and Aboukhaddour, R., 2026. The virulence gene ToxB is both amplified and disrupted by transposons in the wheat pathogen Pyrenophora tritici-repentis. Molecular Plant-Microbe Interactions, 0, 0:ja
